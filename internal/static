@@ -1,0 +1,1 @@
+create role greenlight WITH LOGIN PASSWORD '1952'
